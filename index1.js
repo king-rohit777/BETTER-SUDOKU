@@ -14,3 +14,5 @@ typewriter
 //   .typeString('<strong>only <span style="color: #27ae60;">5kb</span> Gzipped!</strong>')
 //   .pauseFor(1000)
   .start();
+
+
